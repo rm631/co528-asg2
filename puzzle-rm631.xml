@@ -1,0 +1,415 @@
+<?xml version="1.0"?>
+<root>
+	<rectangles>
+		<rectangle id="0">
+			<vertex>
+				<x>19</x>
+				<y>12</y>
+			</vertex>
+			<vertex>
+				<x>19</x>
+				<y>14</y>
+			</vertex>
+			<vertex>
+				<x>22</x>
+				<y>14</y>
+			</vertex>
+			<vertex>
+				<x>22</x>
+				<y>12</y>
+			</vertex>
+		</rectangle>
+		<rectangle id="1">
+			<vertex>
+				<x>12</x>
+				<y>11</y>
+			</vertex>
+			<vertex>
+				<x>12</x>
+				<y>12</y>
+			</vertex>
+			<vertex>
+				<x>16</x>
+				<y>12</y>
+			</vertex>
+			<vertex>
+				<x>16</x>
+				<y>11</y>
+			</vertex>
+		</rectangle>
+		<rectangle id="2">
+			<vertex>
+				<x>8</x>
+				<y>14</y>
+			</vertex>
+			<vertex>
+				<x>8</x>
+				<y>22</y>
+			</vertex>
+			<vertex>
+				<x>9</x>
+				<y>22</y>
+			</vertex>
+			<vertex>
+				<x>9</x>
+				<y>14</y>
+			</vertex>
+		</rectangle>
+		<rectangle id="3">
+			<vertex>
+				<x>3</x>
+				<y>3</y>
+			</vertex>
+			<vertex>
+				<x>3</x>
+				<y>10</y>
+			</vertex>
+			<vertex>
+				<x>4</x>
+				<y>10</y>
+			</vertex>
+			<vertex>
+				<x>4</x>
+				<y>3</y>
+			</vertex>
+		</rectangle>
+		<rectangle id="4">
+			<vertex>
+				<x>7</x>
+				<y>18</y>
+			</vertex>
+			<vertex>
+				<x>7</x>
+				<y>21</y>
+			</vertex>
+			<vertex>
+				<x>15</x>
+				<y>21</y>
+			</vertex>
+			<vertex>
+				<x>15</x>
+				<y>18</y>
+			</vertex>
+		</rectangle>
+		<rectangle id="5">
+			<vertex>
+				<x>20</x>
+				<y>9</y>
+			</vertex>
+			<vertex>
+				<x>20</x>
+				<y>16</y>
+			</vertex>
+			<vertex>
+				<x>22</x>
+				<y>16</y>
+			</vertex>
+			<vertex>
+				<x>22</x>
+				<y>9</y>
+			</vertex>
+		</rectangle>
+		<rectangle id="6">
+			<vertex>
+				<x>5</x>
+				<y>20</y>
+			</vertex>
+			<vertex>
+				<x>5</x>
+				<y>22</y>
+			</vertex>
+			<vertex>
+				<x>12</x>
+				<y>22</y>
+			</vertex>
+			<vertex>
+				<x>12</x>
+				<y>20</y>
+			</vertex>
+		</rectangle>
+		<rectangle id="7">
+			<vertex>
+				<x>15</x>
+				<y>5</y>
+			</vertex>
+			<vertex>
+				<x>15</x>
+				<y>9</y>
+			</vertex>
+			<vertex>
+				<x>16</x>
+				<y>9</y>
+			</vertex>
+			<vertex>
+				<x>16</x>
+				<y>5</y>
+			</vertex>
+		</rectangle>
+		<rectangle id="8">
+			<vertex>
+				<x>6</x>
+				<y>2</y>
+			</vertex>
+			<vertex>
+				<x>6</x>
+				<y>7</y>
+			</vertex>
+			<vertex>
+				<x>11</x>
+				<y>7</y>
+			</vertex>
+			<vertex>
+				<x>11</x>
+				<y>2</y>
+			</vertex>
+		</rectangle>
+		<rectangle id="9">
+			<vertex>
+				<x>9</x>
+				<y>9</y>
+			</vertex>
+			<vertex>
+				<x>9</x>
+				<y>11</y>
+			</vertex>
+			<vertex>
+				<x>17</x>
+				<y>11</y>
+			</vertex>
+			<vertex>
+				<x>17</x>
+				<y>9</y>
+			</vertex>
+		</rectangle>
+		<rectangle id="10">
+			<vertex>
+				<x>18</x>
+				<y>5</y>
+			</vertex>
+			<vertex>
+				<x>18</x>
+				<y>8</y>
+			</vertex>
+			<vertex>
+				<x>21</x>
+				<y>8</y>
+			</vertex>
+			<vertex>
+				<x>21</x>
+				<y>5</y>
+			</vertex>
+		</rectangle>
+		<rectangle id="11">
+			<vertex>
+				<x>16</x>
+				<y>17</y>
+			</vertex>
+			<vertex>
+				<x>16</x>
+				<y>20</y>
+			</vertex>
+			<vertex>
+				<x>19</x>
+				<y>20</y>
+			</vertex>
+			<vertex>
+				<x>19</x>
+				<y>17</y>
+			</vertex>
+		</rectangle>
+		<rectangle id="12">
+			<vertex>
+				<x>17</x>
+				<y>16</y>
+			</vertex>
+			<vertex>
+				<x>17</x>
+				<y>17</y>
+			</vertex>
+			<vertex>
+				<x>23</x>
+				<y>17</y>
+			</vertex>
+			<vertex>
+				<x>23</x>
+				<y>16</y>
+			</vertex>
+		</rectangle>
+		<rectangle id="13">
+			<vertex>
+				<x>14</x>
+				<y>15</y>
+			</vertex>
+			<vertex>
+				<x>14</x>
+				<y>18</y>
+			</vertex>
+			<vertex>
+				<x>15</x>
+				<y>18</y>
+			</vertex>
+			<vertex>
+				<x>15</x>
+				<y>15</y>
+			</vertex>
+		</rectangle>
+		<rectangle id="14">
+			<vertex>
+				<x>1</x>
+				<y>8</y>
+			</vertex>
+			<vertex>
+				<x>1</x>
+				<y>16</y>
+			</vertex>
+			<vertex>
+				<x>8</x>
+				<y>16</y>
+			</vertex>
+			<vertex>
+				<x>8</x>
+				<y>8</y>
+			</vertex>
+		</rectangle>
+		<rectangle id="15">
+			<vertex>
+				<x>17</x>
+				<y>17</y>
+			</vertex>
+			<vertex>
+				<x>17</x>
+				<y>18</y>
+			</vertex>
+			<vertex>
+				<x>18</x>
+				<y>18</y>
+			</vertex>
+			<vertex>
+				<x>18</x>
+				<y>17</y>
+			</vertex>
+		</rectangle>
+	</rectangles>
+	<puzzles>
+		<puzzle id="1">
+			<vertex id="start">
+				<x>5</x>
+				<y>22</y>
+			</vertex>
+			<vertex id="finish">
+				<x>14</x>
+				<y>15</y>
+			</vertex>
+		</puzzle>
+		<puzzle id="2">
+			<vertex id="start">
+				<x>4</x>
+				<y>3</y>
+			</vertex>
+			<vertex id="finish">
+				<x>12</x>
+				<y>11</y>
+			</vertex>
+		</puzzle>
+		<puzzle id="3">
+			<vertex id="start">
+				<x>3</x>
+				<y>3</y>
+			</vertex>
+			<vertex id="finish">
+				<x>9</x>
+				<y>14</y>
+			</vertex>
+		</puzzle>
+		<puzzle id="4">
+			<vertex id="start">
+				<x>23</x>
+				<y>17</y>
+			</vertex>
+			<vertex id="finish">
+				<x>7</x>
+				<y>18</y>
+			</vertex>
+		</puzzle>
+		<puzzle id="5">
+			<vertex id="start">
+				<x>22</x>
+				<y>16</y>
+			</vertex>
+			<vertex id="finish">
+				<x>9</x>
+				<y>22</y>
+			</vertex>
+		</puzzle>
+		<puzzle id="6">
+			<vertex id="start">
+				<x>22</x>
+				<y>14</y>
+			</vertex>
+			<vertex id="finish">
+				<x>8</x>
+				<y>22</y>
+			</vertex>
+		</puzzle>
+		<puzzle id="7">
+			<vertex id="start">
+				<x>22</x>
+				<y>12</y>
+			</vertex>
+			<vertex id="finish">
+				<x>5</x>
+				<y>22</y>
+			</vertex>
+		</puzzle>
+		<puzzle id="8">
+			<vertex id="start">
+				<x>21</x>
+				<y>5</y>
+			</vertex>
+			<vertex id="finish">
+				<x>1</x>
+				<y>16</y>
+			</vertex>
+		</puzzle>
+		<puzzle id="9">
+			<vertex id="start">
+				<x>20</x>
+				<y>16</y>
+			</vertex>
+			<vertex id="finish">
+				<x>3</x>
+				<y>3</y>
+			</vertex>
+		</puzzle>
+		<puzzle id="10">
+			<vertex id="start">
+				<x>19</x>
+				<y>20</y>
+			</vertex>
+			<vertex id="finish">
+				<x>11</x>
+				<y>7</y>
+			</vertex>
+		</puzzle>
+		<puzzle id="11">
+			<vertex id="start">
+				<x>9</x>
+				<y>22</y>
+			</vertex>
+			<vertex id="finish">
+				<x>9</x>
+				<y>9</y>
+			</vertex>
+		</puzzle>
+		<puzzle id="12">
+			<vertex id="start">
+				<x>23</x>
+				<y>16</y>
+			</vertex>
+			<vertex id="finish">
+				<x>1</x>
+				<y>8</y>
+			</vertex>
+		</puzzle>
+	</puzzles>
+</root>

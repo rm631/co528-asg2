@@ -1,0 +1,6 @@
+> Just checking that my file names are correct. I started labeling problem 1 as 0.txt, etc, as you have started with 0.txt in the brief.
+See page 2, line 24 where it says, "For example, for problem 0, you will need to generate 0.txt which contains either: ..."  Thus the first problem is not "problem 1" but problem 0.
+
+> Also, while I'm emailing, I was wondering how strict you are on 'shortest path'. Because currently, my algorithm is limiting potential paths to only the final vertex and square vertices. However, it may very well be more efficient to travel up a bit of a rectangle's side and not to hit a vertex.
+See page 1, line 7 where it says, "... and the journey can change direction only at a vertex of a rectangle"
+
